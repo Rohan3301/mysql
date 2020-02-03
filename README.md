@@ -1,7 +1,7 @@
 # mysql
 A simple shell script I wrote when I faced errors with my MySQL setup on Windows Subsystem for Linux
 
-#error
+
 The error I got whenever I tried to initialize mysql from the WSL is
 
 ERROR 2002 (HY000): Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
