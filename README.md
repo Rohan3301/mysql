@@ -1,5 +1,5 @@
 # mysql
-A simple shell script I wrote when I faced errors with my MySQL setup on Windows Subsystem for Linux
+A super simple shell script I wrote when I faced errors with my MySQL setup on Windows Subsystem for Linux
 
 
 The error I got whenever I tried to initialize mysql from the WSL is
@@ -14,3 +14,6 @@ chmod +x mysql.sh
 and to run it
 
 ./mysql.sh
+
+This is the program version of "Have you tried turning it off an on again?"
+
