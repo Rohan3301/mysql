@@ -15,5 +15,5 @@ and to run it
 
 ./mysql.sh
 
-This is the program version of "Have you tried turning it off an on again?"
+"Have you tried turning it off an on again?"
 
